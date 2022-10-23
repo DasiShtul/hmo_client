@@ -1,0 +1,13 @@
+h2{
+    color:#07b0df;
+    margin-right: 40px;
+}
+
+.details-list{
+    list-style: none;
+}
+
+.details-list li{
+    list-style: none;
+    padding: 10px;
+}
